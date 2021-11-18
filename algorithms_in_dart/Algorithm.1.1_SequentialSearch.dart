@@ -1,3 +1,5 @@
+// Algorithm 1.1: Sequential Search - 순차 탐색
+
 int seqSearch(int n, List<int> S, int x) {
   int location = 0;
 
